@@ -1,0 +1,16 @@
+# Composer related
+composer.phar
+# Thumbnails and caches
+.DS_Store
+Thumbs.db
+# Editor related
+/.idea
+/.vscode
+# PHPUnit related
+.phpunit.result.cache
+# Node.js related
+/node_modules
+npm-debug.log
+# Settings files
+auth.json
+.env
